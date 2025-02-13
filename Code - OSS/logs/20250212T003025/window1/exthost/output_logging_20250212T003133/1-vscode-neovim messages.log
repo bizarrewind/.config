@@ -1,0 +1,30 @@
+Init...
+0% Starting Java Language Server
+OK
+100% Starting Java Language Server - Refreshing '/Lab1_e2651e9d'.
+1000% Starting Java Language Server - Refreshing '/Lab1_e2651e9d'.
+1005% Starting Java Language Server - Refreshing '/Lab1_e2651e9d'.
+1010% Starting Java Language Server - Refreshing '/Lab1_e2651e9d'.
+1100% Starting Java Language Server - Refreshing '/Lab1_e2651e9d'.
+1100% Starting Java Language Server - Refreshing '/Lab1_e2651e9d'.
+Ready
+1100% Starting Java Language Server - Refreshing '/Lab1_e2651e9d'.
+Updating workspace folders: Adding 1 folder(s), removing 0 folders.
+ServiceReady
+[nvim-treesitter] [0/3] Downloading tree-sitter-jsonc...
+[nvim-treesitter] [0/3] Creating temporary directory
+[nvim-treesitter] [0/3] Extracting tree-sitter-jsonc...
+[nvim-treesitter] [0/3] Creating temporary directory
+[nvim-treesitter] [0/3] Creating temporary directory
+nvim-treesitter[jsonc]: Could not create tree-sitter-jsonc-tmp
+
+mkdir: cannot create directory ‘tree-sitter-jsonc-tmp’: File exists
+
+
+
+[nvim-treesitter] [1/3, failed: 1] Compiling...
+[nvim-treesitter] [2/3, failed: 1] Treesitter parser for jsonc has been installed
+[nvim-treesitter] [2/3, failed: 1] Creating temporary directory
+[nvim-treesitter] [2/3, failed: 1] Extracting tree-sitter-jsonc...
+[nvim-treesitter] [2/3, failed: 1] Compiling...
+[nvim-treesitter] [3/3, failed: 1] Treesitter parser for jsonc has been installed

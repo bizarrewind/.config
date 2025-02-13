@@ -1,0 +1,8 @@
+2025-02-13 13:23:04.644 [info] Started local extension host with pid 105672.
+2025-02-13 13:23:04.905 [info] Placing extension(s) asvetliakov.vscode-neovim on a separate extension host.
+2025-02-13 13:23:05.094 [info] Started local extension host with pid 105722.
+2025-02-13 13:23:07.092 [error] Error while getting the latest version for the extension asvetliakov.vscode-neovim. Cannot read properties of undefined (reading 'replace')
+2025-02-13 13:23:07.297 [info] [perf] Render performance baseline is 19ms
+2025-02-13 13:23:13.637 [error] lock() request could not be registered.: Error: lock() request could not be registered.
+2025-02-13 13:23:43.695 [error] An unknown error occurred. Please consult the log for more details.
+2025-02-13 13:23:47.691 [error] An unknown error occurred. Please consult the log for more details.

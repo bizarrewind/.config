@@ -1,0 +1,11 @@
+2025-02-12 00:30:25.912 [info] Started local extension host with pid 78255.
+2025-02-12 00:30:28.558 [info] [perf] Render performance baseline is 15ms
+2025-02-12 00:30:32.017 [error] command 'workbench.action.chat.triggerSetup' not found: Error: command 'workbench.action.chat.triggerSetup' not found
+    at f3e.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1288:1341)
+    at f3e.executeCommand (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1288:1273)
+2025-02-12 00:30:33.366 [error] command 'workbench.action.chat.triggerSetup' not found: Error: command 'workbench.action.chat.triggerSetup' not found
+    at f3e.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1288:1341)
+    at f3e.executeCommand (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1288:1273)
+2025-02-12 00:30:35.518 [error] lock() request could not be registered.: Error: lock() request could not be registered.
+2025-02-12 00:31:33.376 [info] Started local extension host with pid 79022.
+2025-02-12 00:32:47.976 [warning] Settings pattern "issueReporter.*" doesn't match any settings

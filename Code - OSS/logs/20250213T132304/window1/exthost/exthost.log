@@ -1,0 +1,26 @@
+2025-02-13 13:23:05.044 [info] Extension host with pid 105672 started
+2025-02-13 13:23:05.127 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-02-13 13:23:05.150 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-02-13 13:23:05.164 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-02-13 13:23:05.229 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-02-13 13:23:05.444 [info] Extension host with pid 105722 started
+2025-02-13 13:23:05.449 [info] Eager extensions activated
+2025-02-13 13:23:05.450 [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 13:23:05.502 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-02-13 13:23:05.510 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-02-13 13:23:05.570 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-02-13 13:23:05.625 [info] Eager extensions activated
+2025-02-13 13:23:05.694 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 13:23:05.697 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 13:23:43.692 [error] Error: nvim_win_get_cursor: Invalid window id: 1003
+	at /home/bizarrewind/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.16-universal/dist/extension.js:2:129308
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-02-13 13:23:47.689 [error] Error: nvim_win_close: Invalid window id: 1003
+	at /home/bizarrewind/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.16-universal/dist/extension.js:2:129308
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-02-13 13:23:51.371 [info] Extension host terminating: renderer closed the MessagePort
+2025-02-13 13:23:51.383 [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+2025-02-13 13:23:51.385 [warning] Canceled
+2025-02-13 13:23:51.385 [info] Extension host with pid 105722 exiting with code 0
+2025-02-13 13:23:51.438 [info] Extension host terminating: renderer closed the MessagePort
+2025-02-13 13:23:51.446 [info] Extension host with pid 105672 exiting with code 0
