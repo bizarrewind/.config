@@ -1,1 +1,0 @@
-/home/bizarrewind/rate-mirrors-bin/config/i3

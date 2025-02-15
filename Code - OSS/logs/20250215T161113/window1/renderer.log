@@ -1,0 +1,5 @@
+2025-02-15 16:11:13.866 [info] Started local extension host with pid 227754.
+2025-02-15 16:11:14.113 [info] Placing extension(s) asvetliakov.vscode-neovim on a separate extension host.
+2025-02-15 16:11:14.272 [info] Started local extension host with pid 227804.
+2025-02-15 16:11:16.346 [error] Error while getting the latest version for the extension asvetliakov.vscode-neovim. Cannot read properties of undefined (reading 'replace')
+2025-02-15 16:11:16.771 [info] [perf] Render performance baseline is 19ms

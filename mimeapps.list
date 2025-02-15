@@ -1,5 +1,5 @@
 [Default Applications]
-text/plain=kitty-open.desktop
+text/plain=userapp-kitty -e nvim-8EPA22.desktop
 x-scheme-handler/http=zen.desktop
 x-scheme-handler/https=zen.desktop
 x-scheme-handler/chrome=zen.desktop
@@ -11,9 +11,11 @@ application/xhtml+xml=zen.desktop
 application/x-extension-xhtml=zen.desktop
 application/x-extension-xht=zen.desktop
 x-scheme-handler/discord-1216669957799018608=discord-1216669957799018608.desktop
+text/x-csrc=userapp-kitty -e nvim-8EPA22.desktop
+text/x-java=userapp-kitty -e nvim-8EPA22.desktop
 
 [Added Associations]
-text/plain=kitty-open.desktop;
+text/plain=userapp-kitty -e nvim-8EPA22.desktop;kitty-open.desktop;nvim.desktop;
 x-scheme-handler/http=zen.desktop;
 x-scheme-handler/https=zen.desktop;
 x-scheme-handler/chrome=zen.desktop;
@@ -24,3 +26,5 @@ application/x-extension-shtml=zen.desktop;
 application/xhtml+xml=zen.desktop;
 application/x-extension-xhtml=zen.desktop;
 application/x-extension-xht=zen.desktop;
+text/x-java=userapp-kitty -e nvim-8EPA22.desktop;
+text/x-csrc=userapp-kitty -e nvim-8EPA22.desktop;

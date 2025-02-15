@@ -7,7 +7,7 @@
         "folders": [],
         "emptyWindows": [
             {
-                "backupFolder": "1739534150654"
+                "backupFolder": "1739616073328"
             }
         ]
     },
@@ -16,7 +16,8 @@
             "file:///home/bizarrewind/coding/java": "__default__profile__"
         },
         "emptyWindows": {
-            "1739534150654": "__default__profile__"
+            "1739534150654": "__default__profile__",
+            "1739616073328": "__default__profile__"
         }
     },
     "lastKnownMenubarData": {
@@ -88,6 +89,17 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/bizarrewind/rate-mirrors-bin/.gitignore",
+                                        "path": "/home/bizarrewind/rate-mirrors-bin/.gitignore",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/rate-mirrors-bin/.gitignore"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -781,7 +793,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1733,7 +1746,7 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/bizarrewind/.config/Code - OSS/Backups/1739534150654",
+            "backupPath": "/home/bizarrewind/.config/Code - OSS/Backups/1739616073328",
             "uiState": {
                 "mode": 0,
                 "x": 0,
