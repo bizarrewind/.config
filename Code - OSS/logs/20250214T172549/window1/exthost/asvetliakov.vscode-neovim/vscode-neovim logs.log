@@ -1,0 +1,16 @@
+2025-02-14 17:25:51.638 [info] MainController: Starting nvim: /usr/bin/nvim -N --embed --cmd source /home/bizarrewind/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.16-universal/runtime/vscode-neovim.vim
+2025-02-14 17:25:51.689 [info] MainController: Nvim info: {
+  configDir: '/home/bizarrewind/.config/nvim',
+  configFile: '/home/bizarrewind/.config/nvim/init.lua',
+  nvimVersion: {
+    patch: 4,
+    build: 'v0.10.4',
+    api_compatible: 0,
+    minor: 10,
+    prerelease: false,
+    api_prerelease: false,
+    major: 0,
+    api_level: 12
+  },
+  logFile: '/home/bizarrewind/.local/state/nvim/log'
+}

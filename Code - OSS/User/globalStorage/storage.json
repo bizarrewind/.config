@@ -7,7 +7,7 @@
         "folders": [],
         "emptyWindows": [
             {
-                "backupFolder": "1739433184322"
+                "backupFolder": "1739534150654"
             }
         ]
     },
@@ -16,7 +16,7 @@
             "file:///home/bizarrewind/coding/java": "__default__profile__"
         },
         "emptyWindows": {
-            "1739433184322": "__default__profile__"
+            "1739534150654": "__default__profile__"
         }
     },
     "lastKnownMenubarData": {
@@ -88,6 +88,17 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/bizarrewind/.zshrc",
+                                        "path": "/home/bizarrewind/.zshrc",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.zshrc"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -234,8 +245,7 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File",
-                        "enabled": false
+                        "label": "Re&&vert File"
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
@@ -415,8 +425,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.toggleFullScreen",
-                                    "label": "&&Full Screen",
-                                    "checked": true
+                                    "label": "&&Full Screen"
                                 },
                                 {
                                     "id": "workbench.action.toggleZenMode",
@@ -1288,8 +1297,9 @@
                 "userSettingsLabel": "ctrl+k ctrl+t"
             },
             "workbench.action.closeActiveEditor": {
-                "label": "Ctrl+W",
-                "userSettingsLabel": "ctrl+w"
+                "label": "Ctrl+W Q",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+w q"
             },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
@@ -1691,36 +1701,45 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#0e2840",
+    "themeBackground": "#1a1626",
     "windowSplash": {
         "zoomLevel": 0,
         "baseTheme": "vs-dark",
         "colorInfo": {
             "foreground": "#ffffff",
-            "background": "#0e2840",
-            "editorBackground": "#0e2840",
-            "titleBarBackground": "#0e2840",
+            "background": "#1a1626",
+            "editorBackground": "#1a1626",
+            "titleBarBackground": "#1a1626",
             "titleBarBorder": "rgba(0, 0, 0, 0)",
-            "activityBarBackground": "#293e52",
+            "activityBarBackground": "#332952",
             "activityBarBorder": "rgba(0, 0, 0, 0)",
-            "sideBarBackground": "#293e52",
+            "sideBarBackground": "#332952",
             "sideBarBorder": "rgba(0, 0, 0, 0)",
-            "statusBarBackground": "#0e2840",
+            "statusBarBackground": "#1a1626",
             "statusBarBorder": "rgba(0, 0, 0, 0)",
-            "statusBarNoFolderBackground": "#0e2840",
+            "statusBarNoFolderBackground": "#1a1626",
             "windowBorder": "rgba(0, 0, 0, 0)"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 0,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 0,
+            "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/bizarrewind/.config/Code - OSS/Backups/1739433184322",
+            "backupPath": "/home/bizarrewind/.config/Code - OSS/Backups/1739534150654",
             "uiState": {
-                "mode": 3,
-                "display": 53,
-                "width": 1280,
-                "height": 720,
+                "mode": 0,
                 "x": 0,
-                "y": 0
+                "y": 0,
+                "width": 640,
+                "height": 342
             }
         },
         "openedWindows": []
